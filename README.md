@@ -61,6 +61,9 @@ For a detailed introduction, full list of features and architecture overview ple
 > [the _Running OWASP Juice Shop_ documentation](https://pwning.owasp-juice.shop/companion-guide/latest/part1/running.html).
 
 ### From Sources
+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
+
+
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/juice-shop/juice-shop.svg)
 
